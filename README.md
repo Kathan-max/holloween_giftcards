@@ -37,7 +37,7 @@
 
 ---
 
-<h2 align="center">Just kidding (I would never do that to you!!!)</h2>
+<h2 align="center">Just kidding, I would never do that to you!!!</h2>
 
 ---
 
