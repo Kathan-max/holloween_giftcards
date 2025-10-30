@@ -46,11 +46,11 @@
 
 <div>
 
-- [🎁 **$50 Amazon Gift Card — Claim Now!**](https://www.youtube.com/watch?v=dQw4w9WgXcQ)  
-- [☕ **Starbucks Voucher — Redeem Here**](https://www.youtube.com/watch?v=dQw4w9WgXcQ)  
-- [🎵 **iTunes Surprise — Reveal Code**](https://www.youtube.com/watch?v=dQw4w9WgXcQ)  
-- [📦 **Mystery Loot Box — Open Me!**](https://www.youtube.com/watch?v=dQw4w9WgXcQ)  
-- [🎟️ **VIP Halloween Pass — Enter**](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+- [🎁 **$50 Amazon Gift Card — Claim Now!**](https://media1.tenor.com/m/onTlUVMtWy4AAAAd/rickroll-rick.gif)
+- [☕ **Starbucks Voucher — Redeem Here**](https://media1.tenor.com/m/9GCZXUNrsgcAAAAd/rick-roll-ascii.gif)  
+- [🎵 **iTunes Surprise — Reveal Code**](https://media1.tenor.com/m/onTlUVMtWy4AAAAd/rickroll-rick.gif)  
+- [📦 **Mystery Loot Box — Open Me!**](https://media1.tenor.com/m/onTlUVMtWy4AAAAd/rickroll-rick.gif)
+- [🎟️ **VIP Halloween Pass — Enter**](https://media1.tenor.com/m/onTlUVMtWy4AAAAd/rickroll-rick.gif)
 
 </div>
 
