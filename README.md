@@ -1,4 +1,4 @@
-<h1 align="center">🎃 Halloween Haunt 🕸️</h1>
+
 <h2 align="center">LOL!</h2>
 
 <div align="center">
@@ -56,4 +56,4 @@
 
 ---
 
-<p align="center"><i>👻 Happy Haunting! (and sorry, not sorry 😉)</i></p
+<p align="center">👻 Happy Haunting! (and sorry, not sorry 😉)</p>
