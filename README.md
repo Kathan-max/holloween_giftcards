@@ -1,5 +1,9 @@
-# 🎃 Halloween Haunt 🕸️
-# LOL! 
+<h1 align="center">🎃 Halloween Haunt 🕸️</h1>
+<h2 align="center">LOL!</h2>
+
+<div align="center">
+
+<pre style="overflow-x: auto; font-size: 10px; line-height: 10px; white-space: pre-wrap; word-break: break-word;">
 ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⢿⡿⣿⣿⡿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⣻⣻⣿⣿⣿⣿⣿⣿⣿⣿⣿⣟⡽⣯⣻⣻⡽⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⢿⣻⣻
 ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⢿⡿⣿⣿⣿⣿⣿⣿⡿⣻⣻⣻⣻⣻⣻⡽⣯⣟⢷⠍⠟⠉⠛⢿⢿⣻⣻⢿⣿⣿⣯⣻⡽⣯⣻⣻⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣻⢯
 ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣻⣻⣻⣻⡟⡅⠀⠀⠀⠠⠀⠀⠆⡹⣻⣻⡽⣯⣻⡽⣯⣻⡽⣻⣻⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣻⣻⣻
@@ -26,13 +30,29 @@
 ⣟⣟⡽⣯⢯⢎⢎⢯⣏⡗⡝⣝⡽⣻⢯⣫⢫⢫⣫⣻⢯⡳⡱⡱⡱⠀⠀⠀⠀⠠⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠐⡝⡝⡝⣝⡝⡝⡭⣫⢫⢭⣚⣝⣝⣝⡽⣹⣹⢧
 ⢏⠯⢫⢫⢫⢪⢎⢯⢏⠳⡹⡹⣻⡿⡯⣫⢫⡹⡹⡽⡽⡹⡸⡜⡄⠀⠀⢀⢂⠄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡭⡭⣫⡹⡹⡭⣫⢫⢫⣚⡜⡝⡝⣝⣝⢽⡹⡭
 
-# Just kidding (I would never do that to you!!!)
+</pre>
+
+</div>
+
 ---
 
-# 🕷️ Choose your treat (or trick)
-Pick one if you dare:
+<h2 align="center">Just kidding (I would never do that to you!!!)</h2>
+
+---
+
+<h2 align="center">🕷️ Choose your treat (or trick)</h2>
+<p align="center">Pick one if you dare:</p>
+
+<div>
+
 - [🎁 **$50 Amazon Gift Card — Claim Now!**](https://www.youtube.com/watch?v=dQw4w9WgXcQ)  
 - [☕ **Starbucks Voucher — Redeem Here**](https://www.youtube.com/watch?v=dQw4w9WgXcQ)  
 - [🎵 **iTunes Surprise — Reveal Code**](https://www.youtube.com/watch?v=dQw4w9WgXcQ)  
 - [📦 **Mystery Loot Box — Open Me!**](https://www.youtube.com/watch?v=dQw4w9WgXcQ)  
 - [🎟️ **VIP Halloween Pass — Enter**](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+
+</div>
+
+---
+
+<p align="center"><i>👻 Happy Haunting! (and sorry, not sorry 😉)</i></p
